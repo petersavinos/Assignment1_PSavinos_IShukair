@@ -1,5 +1,10 @@
 package org.example;
 
+/**
+ * the {@code Shape} class extends {@code Matrix} reps the pre existed pattern
+ * made up of the binary vals
+ */
+
 public class Shape  extends Matrix {
 
     private String name; // string representation for name of the shape

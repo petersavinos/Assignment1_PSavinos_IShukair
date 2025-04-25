@@ -1,5 +1,13 @@
 package org.example;
 
+
+/**
+ * the {@code Matrix} is represented by a 2d array of ints providing basic matrix operators
+ * <p>
+ *     it startsby predifining the array and or initializing it
+ *     providing methods in which allow the matrix to recieve data and dimensions
+ * </p>
+ */
 public class Matrix { // Matrix class that represents a 2D matrix of ints
 
     private int[][] data; // representation for the matrix using a 2D array

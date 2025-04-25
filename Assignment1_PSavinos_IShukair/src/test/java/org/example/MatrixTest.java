@@ -3,6 +3,13 @@ package org.example;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
+/**
+ * test for (@link Matrix}
+ * <p>
+ *     confirms that the constructor denies any invalid dimension
+ *     confirms the the right row and col counts
+ * </p>
+ */
 
 public class MatrixTest {
 

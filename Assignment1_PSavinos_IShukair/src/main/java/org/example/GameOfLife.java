@@ -1,5 +1,14 @@
 package org.example;
 
+/**
+ * the {@code GameOfLife} is the simulator for the conway game
+ * <p>
+ *     this class extends {@code Matrix} allowing you to add shapes,
+ *     evolves the matrix through gen on the rules based from conway
+ * </p>
+ */
+
+
 public class GameOfLife extends Matrix {
 
     //constructor to create board

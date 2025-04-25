@@ -1,5 +1,13 @@
 package org.example;
 
+
+/**
+ * the {@code MatrixOutlinePrinter} clsss implements {@code MatrixPrinter}
+ * prints the matrix with the boarder of the character only
+ * <p>
+ *     it is meant to extend for more specific visuals
+ * </p>
+ */
 public class MatrixOutlinePrinter implements MatrixPrinter {
 
     protected String printRow(Matrix matrix, int row) { // creates a string representation for each row of the matrix

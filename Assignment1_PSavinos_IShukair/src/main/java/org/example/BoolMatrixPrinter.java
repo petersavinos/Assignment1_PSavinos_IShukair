@@ -3,7 +3,12 @@ package org.example;
 //prints bin matrix with # as 1 and ' ' as 0
 
 public class BoolMatrixPrinter extends MatrixOutlinePrinter{
-
+/**
+ * the {@code BoolMatrixPrinter} prints binary metrics
+ * 1 = # while 0 = space
+ * throws an exception
+ * </p>
+ */
     ///print single row as binary val
     /// throws an exception if a non binary number is found
     ///

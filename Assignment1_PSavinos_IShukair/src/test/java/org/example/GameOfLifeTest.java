@@ -3,6 +3,13 @@ package org.example;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
+/**
+ * <p>
+ *     test for {@code GameOfLife}
+ *     this confirms the correct pattern for the blinker
+ *     after each evo step
+ * </p>
+ */
 public class GameOfLifeTest {
 
     @Test

@@ -3,6 +3,12 @@ package org.example;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
+/**
+ * test for {@code MatrixOutlinePrinter} & {@code BoolMatrixPrinter}
+ * <p>
+ *     make sure the format and values are valid
+ * </p>
+ */
 
 public class MatrixPrinterTest {
 
