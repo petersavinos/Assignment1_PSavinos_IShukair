@@ -1,0 +1,6 @@
+org\example\Matrix.class
+org\example\Shape.class
+org\example\GameOfLife.class
+org\example\BoolMatrixPrinter.class
+org\example\MatrixOutlinePrinter.class
+org\example\MatrixPrinter.class
