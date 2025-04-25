@@ -14,13 +14,16 @@ public class GameOfLifeTest {
                 {0, 1, 0},
         });
 
-        game.addShape(blinker, 1, 1);
+        game.addShape(blinker, 0, 1);
         game.step();
         int[][] stateAfterOneStep = game.getData();
 
-        assertEquals(1, stateAfterOneStep[2][1]);
+        assertEquals(1, stateAfterOneStep[1][1]);
         assertEquals(1, stateAfterOneStep[1][2]);
+        assertEquals(1, stateAfterOneStep[1][3]);
 
+        assertEquals(0, stateAfterOneStep[0][2]);
+        assertEquals(0, stateAfterOneStep[2][2]);
     }
 
 

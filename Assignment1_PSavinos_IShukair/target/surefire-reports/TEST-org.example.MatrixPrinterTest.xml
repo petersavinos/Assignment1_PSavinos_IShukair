@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk17.0.8_8\bin"/>
-    <property name="sun.java.command" value="C:\Users\Ishqa\AppData\Local\Temp\surefire11716034700300050042\surefirebooter-20250424192154879_3.jar C:\Users\Ishqa\AppData\Local\Temp\surefire11716034700300050042 2025-04-24T19-21-53_826-jvmRun1 surefire-20250424192154879_1tmp surefire_0-20250424192154879_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Ishqa\AppData\Local\Temp\surefire5668171322573143571\surefirebooter-20250424200036265_3.jar C:\Users\Ishqa\AppData\Local\Temp\surefire5668171322573143571 2025-04-24T20-00-35_104-jvmRun1 surefire-20250424200036265_1tmp surefire_0-20250424200036265_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Ishqa\IdeaProjects\Assignment1_PSavinos_IShukair\Assignment1_PSavinos_IShukair\target\test-classes;C:\Users\Ishqa\IdeaProjects\Assignment1_PSavinos_IShukair\Assignment1_PSavinos_IShukair\target\classes;C:\Users\Ishqa\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\Ishqa\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\Ishqa\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Ishqa\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\Ishqa\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Ishqa\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\Ishqa\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\Ishqa\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Ishqa\AppData\Local\Temp\surefire11716034700300050042\surefirebooter-20250424192154879_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ishqa\AppData\Local\Temp\surefire5668171322573143571\surefirebooter-20250424200036265_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.8.1+8-LTS"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testBoolPrinterOutput" classname="org.example.MatrixPrinterTest" time="0.005"/>
-  <testcase name="testOutlinePrinter" classname="org.example.MatrixPrinterTest" time="0.002"/>
-  <testcase name="testBoolPrinterThrowException" classname="org.example.MatrixPrinterTest" time="0.006"/>
+  <testcase name="testBoolPrinterOutput" classname="org.example.MatrixPrinterTest" time="0.006"/>
+  <testcase name="testOutlinePrinter" classname="org.example.MatrixPrinterTest" time="0.001"/>
+  <testcase name="testBoolPrinterThrowException" classname="org.example.MatrixPrinterTest" time="0.005"/>
 </testsuite>
